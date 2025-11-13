@@ -6,7 +6,7 @@
 - **NIM**: 152023140
 - **Kelas**: AA
 - **Dosen**: Galih Ashari R., S.Si., MT
-- **Semester**: Ganjil 2024/2025
+- **Semester**: Ganjil 2025/2026
 
 ## 📋 Deskripsi Aplikasi
 
@@ -58,6 +58,7 @@ Fitur:
     - Tombol call dan message
 - Data bersifat statis dari variabel
 - Tampilan card yang modern
+- Search Kontak
 
 ![Kontak](assets/screenshots/kontak.jpg)
 
@@ -200,7 +201,7 @@ Aplikasi ini memenuhi SubCPMK 2 dengan menerapkan berbagai jenis layout dan widg
 
 Fitur yang dapat dikembangkan:
 - [ ] Integrasi dengan API cuaca real-time
-- [ ] Integrasi dengan API berita
+- [ ] Integrasi denga
 - [ ] Database lokal untuk menyimpan data biodata
 - [ ] Import kontak dari sistem
 - [ ] History perhitungan kalkulator
@@ -211,12 +212,6 @@ Fitur yang dapat dikembangkan:
 
 Dikembangkan oleh **Arvin Kurniawan** untuk memenuhi tugas UTS Pemrograman Mobile.
 
-## 📄 Lisensi
-
-Aplikasi ini dikembangkan untuk keperluan akademik di Institut Teknologi Nasional Bandung.
-
----
-
 **Institut Teknologi Nasional Bandung**  
 Jl. Khp Hasan Mustopa No.23, Bandung - 40124  
-© 2024
+© 2025
