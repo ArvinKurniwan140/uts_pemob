@@ -4,7 +4,7 @@
 
 - **Nama**: Arvin Kurniawan
 - **NIM**: 152023140
-- **Kelas**: AA
+- **Kelas**: BB
 - **Dosen**: Galih Ashari R., S.Si., MT
 - **Semester**: Ganjil 2025/2026
 
